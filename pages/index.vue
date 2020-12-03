@@ -50,7 +50,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            Nuxt Documentation
+            Nuxt Documentationn
           </a>
           <br>
           <a
